@@ -15,3 +15,11 @@ Complete hardware specs:
 - **GPU**: AMD Radeon RX 5600 XT
 
 - **RAM**: 32GB @ 3200 MHz DDR4
+
+### BIOS setting
+
+**Disable**
+
+- Fast boot
+- COM port
+- CFG Lock
